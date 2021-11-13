@@ -4,6 +4,8 @@ Hackintosh EFI Folders for All chipsets - Intel - AMD - Clover - Opencore
 
 Download EFI folder https://www.olarila.com/topic/5676-hackintosh-efi-folders-for-all-chipsets-clover-and-opencore/
 
+SandyBridge, IvyBridge, Haswell, Broadwell, SkyLake, KabyLake, CoffeeLake, CometLake, RocketLake, Alderlake, WhiskeyLake, IceLake, SandyBridge-E, IvyBridge-E, Haswell-E, Broadwell-E, Skylake-XW, CascadeLake-XW, Bulldozer, Jaguar, Ryzen, Threadripper.
+
 Bootloader and kexts credits: Credits: Clover Team, OpenCore Team, Mieze and many others!
 
 Donation with Paypal https://tinyurl.com/r7fchn9
