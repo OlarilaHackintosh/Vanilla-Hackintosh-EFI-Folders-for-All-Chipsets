@@ -1,4 +1,4 @@
-# Hackintosh EFI Folders
+# Hackintosh EFI Folders for SandyBridge, IvyBridge, Haswell, Broadwell, SkyLake, KabyLake, CoffeeLake, WhiskeyLake, CometLake, CoffeeLake Plus, RocketLake, IceLake, AlderLake, RaptorLake, SandyBridge-E, IvyBridge-E, Haswell-E, Broadwell-E, Skylake-XW, CascadeLake-XW, AMD Bulldozer, Jaguar, Ryzen, Threadripper, TigerLake.
 
 https://www.olarila.com/topic/25111-hackintosh-efi-folders-with-opencore-mod/
 
